@@ -26,3 +26,4 @@ dist-ssr
 /src/services/cred.js
 .env
 cred.js
+.DS_Store
