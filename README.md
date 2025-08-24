@@ -1,4 +1,5 @@
-# 🎞️ Movie Finder
+# 🎞️ Movie Finder [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 
 A React + Vite web application that allows users to search for movies and view popular titles using [The Movie Database (TMDB) API](https://www.themoviedb.org/documentation/api).
 
@@ -58,4 +59,3 @@ src/
    ```
 
 project inspired by [TechwithTim](https://www.youtube.com/watch?v=G6D9cBaLViA)
-
