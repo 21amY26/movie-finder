@@ -1,5 +1,6 @@
-//import API_KEY from './cred.js'
+
 const API_KEY = import.meta.env.VITE_API_KEY;
+
 const BASE_URL = "https://api.themoviedb.org/3"
 
 export const getPopularMovies = async() => {
@@ -12,3 +13,4 @@ export const searchMovie = async(query) => {
     const data = await response.json()
     return data.results
 }
+
